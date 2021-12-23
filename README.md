@@ -1,6 +1,6 @@
 👋 Hi, I’m @rdavdin
 - 👀 I’m an introvert guy. Belong to ISTJ.
-- 🌱 I’m currently on a journey to become a professional blockchain developer.
+- 🌱 I’m currently on a journey to become a dapp and blockchain developer.
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
